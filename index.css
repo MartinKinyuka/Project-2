@@ -1,0 +1,101 @@
+
+html {
+  margin: 0;
+  padding: 0;
+  background: url("https://static1.bigstockphoto.com/7/9/2/large1500/297326920.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+div{
+  font-size: large;
+  font-weight: bolder;
+  color: antiquewhite;
+}
+img{
+  height: 300px;
+  width: 500px;
+  padding: 20px;
+  
+}
+
+  
+h1{
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+  padding: 5px;
+  background-color: whitesmoke;
+  box-shadow: 3px 3px 5px black;
+  text-shadow: 3px 3px 5px;
+  
+  
+
+}
+
+  
+main{
+  display: flex;
+
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+h3{
+  
+  color: black;
+  padding: 2px;
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  box-sizing: border-box;
+  width: 300px;
+  height: 30px;
+  margin-left: 20px;
+}
+h2{
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+  background-color: blanchedalmond;
+  box-shadow: 3px 3px 5px black;
+  text-shadow: 3px 3px 5px;
+  
+}
+.beglin{ 
+  font-weight: bolder ;
+  color: white;
+  box-sizing: border-box;
+  width: 500px;
+  height: 200px;
+  border: solid black;
+  background-color: coral;
+  float: left;
+  padding: 10px;
+  position: relative;
+  top: 20px;
+}
+.jim{
+float: left;
+height: 200px;
+width: 200px;
+}
+.martin{
+  font-weight: bolder ;
+  color: white;
+  box-sizing: border-box;
+  width: 500px;
+  height: 200px;
+  border: solid black;
+  background-color: coral;
+  float: left;
+  padding: 10px;
+  position: relative;
+  top: 20px;
+  
+
+}
+.Tyler{
+  float: left;
+  height: 200px;
+  width: 200px;
+}

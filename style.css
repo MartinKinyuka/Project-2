@@ -1,0 +1,13 @@
+.intro{
+  box-sizing: border-box;
+  width: 600px;
+  height: fit-content;
+  border: none;
+  background-color:chocolate;
+  margin : auto;
+  padding : 20px;
+  font-style: italic;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+}
